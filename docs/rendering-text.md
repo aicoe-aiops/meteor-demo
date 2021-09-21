@@ -1,6 +1,6 @@
 # Building documentation
 
-Jupyter Books natively render **.rst, .md, and .ipynb** files natively from a single GitHub repo in a beautiful way.
+Jupyter Books natively render **.rst, .md, and .ipynb** files from a single GitHub repo in a beautiful way.
 
 ```{note}
 You can also add in notes to enhance user experience.
